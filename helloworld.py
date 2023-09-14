@@ -1,0 +1,13 @@
+print('Welcome to Python..')
+str=(input('Enter Your Name:'))
+print('-----------------------------------')
+print('Welcome',str,' for addition')
+print('-----------------------------------')
+print(type(str))
+n1=int(input('Enter First Number:'))
+print('Value of n1:',n1)
+n2=int(input('Enter Second Number:'))
+print('Value of n2:',n2)
+add=n1+n2
+print('----------------------------------')
+print('\nAddition is:',add)
